@@ -1,0 +1,12 @@
+body{
+    background: black;
+    text-align: center;
+}
+.box{
+    background: linear-gradient(to right, red, yellow, pink, orange);
+    color: blueviolet;
+    text-align: left;
+    padding:0rem;
+    margin:0pt;
+    font-size:xx-large;
+}
